@@ -1,5 +1,5 @@
 # mongodb_guia
-Estando en la ruta donde encontramos docker-compose.yml, ejecutamos el siguiente comando:
+Estando en la ruta donde encontramos docker-compose.yml, ejecutamos los siguientes comandos:
 
 docker-compose up -d
 
